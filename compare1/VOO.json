@@ -2,16 +2,16 @@
     "Meta Data": {
         "1. Information": "Monthly Prices (open, high, low, close) and Volumes",
         "2. Symbol": "VOO",
-        "3. Last Refreshed": "2017-10-16",
+        "3. Last Refreshed": "2017-10-25",
         "4. Time Zone": "US/Eastern"
     },
     "Monthly Time Series": {
-        "2017-10-16": {
+        "2017-10-25": {
             "1. open": "231.0000",
-            "2. high": "234.6900",
+            "2. high": "236.4900",
             "3. low": "230.9100",
-            "4. close": "234.5100",
-            "5. volume": "13597191"
+            "4. close": "234.5000",
+            "5. volume": "24269484"
         },
         "2017-09-29": {
             "1. open": "227.7600",

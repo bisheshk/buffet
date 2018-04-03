@@ -2,16 +2,16 @@
     "Meta Data": {
         "1. Information": "Monthly Prices (open, high, low, close) and Volumes",
         "2. Symbol": "NVDA",
-        "3. Last Refreshed": "2017-10-16",
+        "3. Last Refreshed": "2017-10-25",
         "4. Time Zone": "US/Eastern"
     },
     "Monthly Time Series": {
-        "2017-10-16": {
+        "2017-10-25": {
             "1. open": "180.8000",
-            "2. high": "198.0500",
+            "2. high": "199.5900",
             "3. low": "177.0000",
-            "4. close": "197.9300",
-            "5. volume": "145759165"
+            "4. close": "193.6600",
+            "5. volume": "237472718"
         },
         "2017-09-29": {
             "1. open": "169.9500",
